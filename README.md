@@ -37,4 +37,3 @@
 
 <p align="center">
   <i>✨ Sempre aprendendo, praticando e evoluindo na tecnologia ✨</i>
-</p>![Uploading banner.svg…]()
