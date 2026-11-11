@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-💻 Desenvolvedora back-end &nbsp;·&nbsp; 🎓 Estudante de Análise e Desenvolvimento de Sistemas &nbsp;·&nbsp; 🚀 Em busca da primeira oportunidade em TI
+Desenvolvedora back-end &nbsp;·&nbsp;  Estudante de Análise e Desenvolvimento de Sistemas &nbsp;·&nbsp;  Em busca da primeira oportunidade em TI
 </p>
 
 <br>
@@ -36,4 +36,4 @@
 <br>
 
 <p align="center">
-  <i>✨ Sempre aprendendo, praticando e evoluindo na tecnologia ✨</i>
+  <i> Sempre aprendendo, praticando e evoluindo na tecnologia </i>
