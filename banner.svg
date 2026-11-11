@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="190" viewBox="0 0 840 190" role="img" aria-label="Valérya.dev — Desenvolvedora Back-end">
+  <!-- Fundo grafite do portfólio -->
+  <rect width="840" height="190" fill="#161616"/>
+  <!-- Filete superior e inferior, estilo editorial -->
+  <rect x="60" y="34" width="720" height="1" fill="#4a4947"/>
+  <rect x="60" y="156" width="720" height="1" fill="#4a4947"/>
+  <!-- Logo: serifada, .DEV em itálico como no site -->
+  <text x="420" y="105" text-anchor="middle"
+        font-family="Playfair Display, Georgia, 'Times New Roman', serif"
+        font-size="54" font-weight="800" letter-spacing="2" fill="#f4f3f0">VALÉRYA<tspan font-style="italic" font-weight="400">.DEV</tspan></text>
+  <!-- Subtítulo com tracking largo, como os labels do site -->
+  <text x="420" y="140" text-anchor="middle"
+        font-family="Inter, Arial, sans-serif"
+        font-size="13" font-weight="600" letter-spacing="7" fill="#aaa9a5">DESENVOLVEDORA BACK-END</text>
+</svg>
