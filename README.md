@@ -30,7 +30,7 @@
 <div align="center">
   <a href="https://postfolio-umber.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-1d1d1b?style=for-the-badge&logo=vercel&logoColor=e3e1dc" alt="Portfólio"/></a>
   <a href="mailto:valeryadev@gmail.com"><img src="https://img.shields.io/badge/E--mail-1d1d1b?style=for-the-badge&logo=gmail&logoColor=e3e1dc" alt="E-mail"/></a>
-  <a href="www.linkedin.com/in/valérya-dias"><img src="https://img.shields.io/badge/LinkedIn-1d1d1b?style=for-the-badge&logo=linkedin&logoColor=e3e1dc" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/val%C3%A9rya-dias/"><img src="https://img.shields.io/badge/LinkedIn-1d1d1b?style=for-the-badge&logo=linkedin&logoColor=e3e1dc" alt="LinkedIn"/></a>
 </div>
 
 <br>
